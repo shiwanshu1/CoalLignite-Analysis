@@ -8,3 +8,7 @@ This dashboard provides a comprehensive overview of coal and lignite production 
 -Interactive maps for geographical insights.
 
 -Comprehensive data visualization for easy understanding
+
+## OUTPUT
+
+![coal india dashboard_page-0001](https://github.com/shiwanshu1/CoalLignite-Analysis/assets/144357090/9a15f16d-0735-4b24-b0ca-4a4f29a267ca)
